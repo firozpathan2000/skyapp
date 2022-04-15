@@ -23,7 +23,7 @@
      
       <!-- partial -->
 @include('components.sidebar')
-     
+     HI there...
 
       <!-- partial -->
       <div class="main-panel">
